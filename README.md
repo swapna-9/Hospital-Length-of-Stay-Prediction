@@ -38,7 +38,6 @@ To install the required packages, run:
 
 ```
 pip install -r requirements.txt
-
 ```
 
 (Ensure to create a requirements.txt file with the necessary libraries listed.)
