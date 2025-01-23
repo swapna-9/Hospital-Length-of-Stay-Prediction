@@ -18,6 +18,24 @@ Model performance evaluation using metrics such as Mean Absolute Error (MAE) and
 
 Insights and recommendations based on the analysis.
 
+## Dataset
+
+The project uses a hospital dataset containing the following columns:
+
+PatientID: Unique identifier for each patient.
+
+Age: Age of the patient.
+
+Gender: Gender of the patient.
+
+Diagnosis: Primary diagnosis for admission.
+
+Admission Type: Type of admission (e.g., emergency, elective).
+
+Length of Stay: Target variable representing the duration of the hospital stay.
+
+Note: Due to privacy concerns, the dataset is not included in this repository.
+
 ## Requirements
 
 The project requires Python and the following libraries:
